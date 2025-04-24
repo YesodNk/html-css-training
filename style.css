@@ -1,6 +1,10 @@
 p {
     color: royalblue;
+    font-size: 2em;
 }
 img {
     padding: 10px; /*espacement image*/
+}
+h1 {
+    font-size: 3em;
 }
